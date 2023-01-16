@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Markazi+Text:wght@500&display=swap'); 
+
+html {
+  --primary-A: #495E57 ;
+  --primary-B: #F4CE14;
+  --secondary-A: #EE9972;
+  --secondary-B: #FBDABB;
+  --highlight-A: #EDEFEE;
+  --highlight-B: #333333;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Karla', sans-serif;
+  font-family: 'Markazi Text', serif;
+  background-color: var(--highlight-A);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
+
+
+
+

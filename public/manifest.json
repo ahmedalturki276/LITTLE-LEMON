@@ -1,0 +1,20 @@
+{
+  "short_name": "Little Lemon",
+  "name": "Little Lemon Chicago Inc",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "446x753"
+    },
+    {
+      "src": "logo1.png",
+      "type": "image/png",
+      "sizes": "1362x2400"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
